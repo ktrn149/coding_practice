@@ -1,0 +1,21 @@
+
+
+/*centers the text and gives the website some color and center the elements*/
+body {
+	text-align: center;
+	background-color: #f2f237;
+}
+
+/*provides border to div element*/
+.main {
+	border-width: 8px; 
+	border-color: #b672f9;
+	border-style: solid;
+}
+
+/* returns the input text in a large size than before*/
+#textReveal {
+	font-family: sans-serif;
+	font-size: 40pt;
+}
+
